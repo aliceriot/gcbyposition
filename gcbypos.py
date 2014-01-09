@@ -1,6 +1,9 @@
 import gzip
 fin = gzip.open('test_data/heli.R1s.fq.gz', 'rb')
 
+
+
+
 def gcbypos(seqfile):
 	#initialize empty dictionary
 	gc = {}
