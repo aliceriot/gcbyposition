@@ -7,3 +7,5 @@ This script:
 *	Returns a dictionary with:
 	*	key: position in alignment
 	*	value: proportion of g/c sites at position
+
+I made a change
